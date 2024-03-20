@@ -1,1 +1,1 @@
-# speedtest-tray-notifier
+# Speedtest tray notifier (Windows)
